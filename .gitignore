@@ -1,0 +1,16 @@
+# Example .gitignore
+
+# Python
+*.pyc
+__pycache__/
+
+# Environment
+.env
+venv/
+
+# Sensitive Files - DO NOT upload your uploads or key!
+server_uploads/
+*.env
+
+# OS
+.DS_Store
